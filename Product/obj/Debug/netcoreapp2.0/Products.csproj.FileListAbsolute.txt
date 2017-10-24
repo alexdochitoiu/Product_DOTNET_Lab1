@@ -1,0 +1,9 @@
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\Product\bin\Debug\netcoreapp2.0\Products.deps.json
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\Product\bin\Debug\netcoreapp2.0\Products.dll
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\Product\bin\Debug\netcoreapp2.0\Products.pdb
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\Product\obj\Debug\netcoreapp2.0\Products.csprojResolveAssemblyReference.cache
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\Product\obj\Debug\netcoreapp2.0\Products.csproj.CoreCompileInputs.cache
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\Product\obj\Debug\netcoreapp2.0\Products.AssemblyInfoInputs.cache
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\Product\obj\Debug\netcoreapp2.0\Products.AssemblyInfo.cs
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\Product\obj\Debug\netcoreapp2.0\Products.dll
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\Product\obj\Debug\netcoreapp2.0\Products.pdb

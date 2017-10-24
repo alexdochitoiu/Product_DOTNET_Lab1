@@ -1,0 +1,16 @@
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\ProductTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\ProductTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\ProductTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\ProductTests\bin\Debug\netcoreapp2.0\ProductTests.deps.json
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\ProductTests\bin\Debug\netcoreapp2.0\ProductTests.runtimeconfig.json
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\ProductTests\bin\Debug\netcoreapp2.0\ProductTests.runtimeconfig.dev.json
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\ProductTests\bin\Debug\netcoreapp2.0\ProductTests.dll
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\ProductTests\bin\Debug\netcoreapp2.0\ProductTests.pdb
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\ProductTests\bin\Debug\netcoreapp2.0\Products.dll
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\ProductTests\bin\Debug\netcoreapp2.0\Products.pdb
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\ProductTests\obj\Debug\netcoreapp2.0\ProductTests.csprojResolveAssemblyReference.cache
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\ProductTests\obj\Debug\netcoreapp2.0\ProductTests.csproj.CoreCompileInputs.cache
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\ProductTests\obj\Debug\netcoreapp2.0\ProductTests.AssemblyInfoInputs.cache
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\ProductTests\obj\Debug\netcoreapp2.0\ProductTests.AssemblyInfo.cs
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\ProductTests\obj\Debug\netcoreapp2.0\ProductTests.dll
+C:\Users\Alex Dochitoiu\source\repos\DOT_NET_L4\ProductTests\obj\Debug\netcoreapp2.0\ProductTests.pdb
